@@ -1,0 +1,15 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+ }
+ 
+ .dark {
+ 	color: #5a5a5a;
+ }
+ 
+ #logo img {
+ 	width: 100%;
+ }
+ 
+ .navnav {
+ 	display: inline-block;
+ }
